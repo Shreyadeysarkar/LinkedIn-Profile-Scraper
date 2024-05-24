@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #content {
+    margin: 10px;
+  }
+  
+  #getTitleBtn {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #titleDisplay {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
